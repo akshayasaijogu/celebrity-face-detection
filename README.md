@@ -41,5 +41,8 @@ In this project, we delve into the fascinating realm of celebrity face detection
 To get started with the project, please refer to the following:
 
 Installation: Clone the repository and install the required dependencies.
+
 Usage: Follow the instructions in the documentation to run the project and explore the Streamlit interface.
+
 Contributing: We welcome contributions from the community. Please refer to the contribution guidelines for more information.
+
