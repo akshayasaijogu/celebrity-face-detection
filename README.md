@@ -1,4 +1,4 @@
-##Celebrity Face Detection Project
+Celebrity Face Detection Project
 
 Welcome to the Celebrity Face Detection project! This project represents the culmination of weeks of dedicated effort and learning in the Python for Data Science Bootcamp. Below is an overview of the project's key components and achievements:
 
